@@ -1,23 +1,34 @@
 # Comedic Sound Kit
 Classic comedic sounds on the keyboard using HTML5/CSS3 and JS.
 
-The app uses the following keyboard:
+The app uses the following keyboard and each are assigned a unique sound when pressed:
 `a`, `s`, `d`, `f`, `j`, `k`, `l`, `;`.
+
+## Other Notes
+
+The program is responsive with mobile devices and tablets. Resize screen on browser to have a preview.
 
 ### Brainstorming/ Ideas
 What kind of sound would you like to hear your keyboard make?
 -cliche kawaii anime sound kit
--classic comedic sound kit
+-classic comedic sound kit (chosen)
 -pokemon roar sound kit
-
-Inspired by WesBos Drum Kit app.
+-Three instruments piano-whistle-trumpet toggle to switch instrument
 
 ### Suggestions/ Improvements from previous coder (WesBos)
 * Use arrays, instead of heaps of audio tags in the html file.
+* Suggestions of sounds:
+-laughter
+-Boo
+-Drum punch line
+-Nikko Nikko
+-Nyan Nyan cat
 
 ## Credits
 Audios found in various websites. However, some are altered for the for short length. This includes Youtube.
 -Fart_Toot.mp3 (_YouTube_)
+
+Inspired by WesBos (Drum Kit project)[https://youtu.be/VuN8qwZoego].
 
 ## License
 MIT License
