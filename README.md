@@ -1,8 +1,7 @@
 # Comedic Sound Kit
-Classic comedic sounds on the keyboard using HTML5/CSS3 and JS.
+Classic comedic sounds (with popular anime meme sounds) on the keyboard using HTML5/CSS3 and JS.
 
-The app uses the following keyboard and each are assigned a unique sound when pressed:
-`a`, `s`, `d`, `f`, `j`, `k`, `l`, `;`.
+The app uses the following keyboard: `a`, `s`, `d`, `f`, `j`, `k`, `l`, `;`. Each are assigned a unique sound when pressed.
 
 ## Other Notes
 
@@ -18,17 +17,25 @@ What kind of sound would you like to hear your keyboard make?
 ### Suggestions/ Improvements from previous coder (WesBos)
 * Use arrays, instead of heaps of audio tags in the html file.
 * Suggestions of sounds:
--laughter
+-laughter /
 -Boo
--Drum punch line
+-Drum punch line /
 -Nikko Nikko
--Nyan Nyan cat
+-Nyan Nyan cat /
 
 ## Credits
 Audios found in various websites. However, some are altered for the for short length. This includes Youtube.
 -Fart_Toot.mp3 (_YouTube_)
+-Clown_Horn.mp3 (_YouTube_)
+-Air_Horn_in_Close_Hall_Series.mp3 (_YouTube_)
+-Punchline_Drum.mp3 (_YouTube_)
+-Woosh: Woosh - Light 01 (_[free-sfx](https://arnofaure.github.io/free-sfx/)_)
+-Voice (Female): Hello 01 (_[free-sfx](https://arnofaure.github.io/free-sfx/)_)
+-Voice (Male): Cartoon Laugh 01 (_[free-sfx](https://arnofaure.github.io/free-sfx/)_)
+-Nyan cat (Short Ver.).mp3 (See original version by [_daniwellP_](https://en.wikipedia.org/wiki/File:Nyan_cat.ogg))
+-Nikko nikko nii (_YouTube_)
 
-Inspired by WesBos (Drum Kit project)[https://youtu.be/VuN8qwZoego].
+Inspired by WesBos [Drum Kit project](https://youtu.be/VuN8qwZoego).
 
 ## License
 MIT License
