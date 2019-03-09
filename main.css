@@ -8,7 +8,7 @@ body
 }
 
 body {
-  background: url("img/smiley-faces.svg");
+  background: url("img/smiley-faces.svg" no-repeat);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

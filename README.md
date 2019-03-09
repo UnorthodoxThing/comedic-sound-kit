@@ -1,7 +1,7 @@
 # Comedic Sound Kit
 Classic comedic sounds (with popular anime meme sounds) on the keyboard using HTML5/CSS3 and JS.
 
-The app uses the following keyboard: `a`, `s`, `d`, `f`, `j`, `k`, `l`, `;`. Each are assigned a unique sound when pressed.
+The app uses the following keyboard: `a`, `s`, `d`, `f`, `g`, `j`, `k`, `l`. Each are assigned a unique sound when pressed.
 
 ## Other Notes
 
