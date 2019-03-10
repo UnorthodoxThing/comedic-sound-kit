@@ -8,9 +8,14 @@ body
 }
 
 body {
-  background: url("img/smiley-faces.svg" no-repeat);
+  background: url("img/smiley-faces.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.sound {
+  color: #eee;
+  background: #000;
 }
