@@ -39,10 +39,55 @@ function checkKeyCode(pressAnyKey) {
   };
 };
 
+// document.onkeypress = function(evt) {
+//     evt = evt || window.event;
+//     var charCode = evt.keyCode || evt.which;
+//     var charStr = String.fromCharCode(charCode);
+//     alert(charStr);
+// };
+
 window.addEventListener('keydown',function(e) {
-  const targetAudio = document.querySelector(`.sound[data-key="${e.keyCode}"]`);
-  if (e == targetAudio) {
-    checkKeyCode(e);
+  // const targetAudio = document.querySelector(`.sound[data-key="${e.keyCode}"]`);
+  // if (e == targetAudio) {
+  //   checkKeyCode(e);
+  // }
+
+  let evt = e || window.event;
+  let charCode = evt.keyCode || evt.which;
+  // var charStr = String.fromCharCode(charCode);
+
+  switch (charCode) {
+    case 65:
+        // do something
+        console.log("HI")
+        break;
+    case 83:
+        // do something
+        break;
+    case 68:
+        // do something
+        break;
+    case 70:
+        // do something
+        break;
+    case 71:
+        // do something
+        break;
+    case 72:
+        // do something
+        break;
+    case 74:
+        // do something
+        break;
+    case 75:
+        // do something
+        break;
+    case 76:
+        // do something
+        break;
+
+    default:
+        return;
   }
 });
 
