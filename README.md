@@ -5,7 +5,7 @@ The app uses the following keyboard: `a`, `s`, `d`, `f`, `g`, `j`, `k`, `l`. Eac
 
 ## Other Notes
 
-The program is responsive with mobile devices and tablets. Resize screen on browser to have a preview.
+The program was intended to make do with two other themed series of sounds, instead of one themed. If you look through the code, the elements were made through iterating via `for` loop. I wanted the program to be able to swap sounds later, which is why it is designed the way it is.
 
 ### Brainstorming/ Ideas
 What kind of sound would you like to hear your keyboard make?
@@ -36,6 +36,9 @@ Audios found in various websites. However, some are altered for the for short le
 -Nikko nikko nii (_YouTube_)
 
 Inspired by WesBos [Drum Kit project](https://youtu.be/VuN8qwZoego).
+
+Other source:
+-http://keycode.info/
 
 ## License
 MIT License
