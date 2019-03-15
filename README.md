@@ -3,6 +3,8 @@ Classic comedic sounds (with popular anime meme sounds) on the keyboard using HT
 
 The app uses the following keyboard: `a`, `s`, `d`, `f`, `g`, `j`, `k`, `l`. Each are assigned a unique sound when pressed.
 
+![comedic-sound-kit](https://user-images.githubusercontent.com/24542308/54423633-318b6a00-4765-11e9-9421-c3f9093ed788.png)
+
 ## Other Notes
 
 The program was intended to make do with two other themed series of sounds, instead of one themed. If you look through the code, the elements were made through iterating via `for` loop. I wanted the program to be able to swap sounds later, which is why it is designed the way it is.
