@@ -9,37 +9,56 @@ The app uses the following keyboard: `a`, `s`, `d`, `f`, `g`, `j`, `k`, `l`. Eac
 
 The program was intended to make do with two other themed series of sounds, instead of one themed. If you look through the code, the elements were made through iterating via `for` loop. I wanted the program to be able to swap sounds later, which is why it is designed the way it is.
 
-### Brainstorming/ Ideas
-What kind of sound would you like to hear your keyboard make?
+### Brainstorming and Putting Ideas on the Table
+_What kind of sound would you like to hear your keyboard make?_
+
 -cliche kawaii anime sound kit
+
 -classic comedic sound kit (chosen)
+
 -pokemon roar sound kit
+
 -Three instruments piano-whistle-trumpet toggle to switch instrument
 
-### Suggestions/ Improvements from previous coder (WesBos)
+### Suggestions and Improvements from previous coder (WesBos)
 * Use arrays, instead of heaps of audio tags in the html file.
 * Suggestions of sounds:
--laughter /
+
+-laughter (used)
+
 -Boo
--Drum punch line /
--Nikko Nikko
--Nyan Nyan cat /
+
+-Drum punch line (used)
+
+-Nikko Nikko (used
+
+-Nyan Nyan cat (used)
 
 ## Credits
 Audios found in various websites. However, some are altered for the for short length. This includes Youtube.
+
 -Fart_Toot.mp3 (_YouTube_)
+
 -Clown_Horn.mp3 (_YouTube_)
+
 -Air_Horn_in_Close_Hall_Series.mp3 (_YouTube_)
+
 -Punchline_Drum.mp3 (_YouTube_)
+
 -Woosh: Woosh - Light 01 (_[free-sfx](https://arnofaure.github.io/free-sfx/)_)
+
 -Voice (Female): Hello 01 (_[free-sfx](https://arnofaure.github.io/free-sfx/)_)
+
 -Voice (Male): Cartoon Laugh 01 (_[free-sfx](https://arnofaure.github.io/free-sfx/)_)
+
 -Nyan cat (Short Ver.).mp3 (See original version by [_daniwellP_](https://en.wikipedia.org/wiki/File:Nyan_cat.ogg))
+
 -Nikko nikko nii (_YouTube_)
 
 Inspired by WesBos [Drum Kit project](https://youtu.be/VuN8qwZoego).
 
 Other source:
+
 -http://keycode.info/
 
 ## License
