@@ -5,7 +5,7 @@ The app uses the following keyboard: `a`, `s`, `d`, `f`, `g`, `j`, `k`, `l`. Eac
 
 ![comedic-sound-kit](https://user-images.githubusercontent.com/24542308/54423633-318b6a00-4765-11e9-9421-c3f9093ed788.png)
 
-## Other Notes
+## Notes
 
 The program was intended to make do with two other themed series of sounds, instead of one themed. If you look through the code, the elements were made through iterating via `for` loop. I wanted the program to be able to swap sounds later, which is why it is designed the way it is.
 
@@ -30,7 +30,7 @@ _What kind of sound would you like to hear your keyboard make?_
 
 -Drum punch line (used)
 
--Nikko Nikko (used
+-Nikko Nikko (used)
 
 -Nyan Nyan cat (used)
 
@@ -57,7 +57,7 @@ Audios found in various websites. However, some are altered for the for short le
 
 Inspired by WesBos [Drum Kit project](https://youtu.be/VuN8qwZoego).
 
-Other source:
+Other source help:
 
 -http://keycode.info/
 
